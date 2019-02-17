@@ -1,8 +1,11 @@
 # Table of contents
 
-* [Algorithms and Data Structure Notes](README.md)
+* [Welcome](README.md)
 
-## Data Structures
+## Algorithms and Data Structures
 
-* [2019.2.16 Hash Table](data-structures/2019.2.16-hash-table.md)
+* [Algorithms](data-structures/algorithms/README.md)
+  * [2018.12.18 Searching Algorithms](data-structures/algorithms/2018.12.18-searching-algorithms.md)
+* [Data Structures](data-structures/data-structures/README.md)
+  * [2019.2.16 Hash Table](data-structures/data-structures/2019.2.16-hash-table.md)
 
