@@ -1,5 +1,8 @@
 # Table of contents
 
 * [Algorithms and Data Structure Notes](README.md)
-* [Initial page](initial-page.md)
+
+## Data Structures
+
+* [2019.2.16 Hash Table](data-structures/2019.2.16-hash-table.md)
 
