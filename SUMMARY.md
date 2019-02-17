@@ -1,5 +1,5 @@
 # Table of contents
 
-* [Introduction](README.md)
+* [Algorithms and Data Structure Notes](README.md)
 * [Initial page](initial-page.md)
 
