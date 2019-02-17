@@ -1,6 +1,5 @@
 # Algorithms and Data Structure Notes
 
-```text
 # 2019.2.16 Hash Table
 
 # I. What is a Hash Table
@@ -216,6 +215,4 @@ Because we have a good hash function which:
 2. on average distributes keys uniformly!
 
 (Don’t use your own simple implementation, use a good one which is probably already there in your language of choice)
-
-```
 
