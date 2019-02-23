@@ -1,1 +1,19 @@
-theme: jekyll-theme-dinky
+# theme: jekyll-theme-dinky
+# theme: jekyll-theme-architect
+# theme: jekyll-theme-cayman
+# theme: jekyll-theme-hacker
+# theme: jekyll-theme-leap-day
+# theme: jekyll-theme-merlot
+# theme: jekyll-theme-midnight
+# theme: jekyll-theme-minimal
+# theme: jekyll-theme-modernist
+# theme: jekyll-theme-slate
+# theme: jekyll-theme-tactile
+# theme: jekyll-theme-time-machine
+# theme: jekyll-theme-primer
+theme: jekyll-theme-slate
+
+title: Algorithm & Data Structure
+description: Notes taken on the road.
+show_downloads: true
+google_analytics:
