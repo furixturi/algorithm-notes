@@ -1,3 +1,3 @@
 # Algorithms
 
-  * [2018.12.18 Searching Algorithms](2018.12.18-searching-algorithms.md)
+  * [2018.12.18 Search Algorithms](search-algorithms/2018.12.18-search-algorithms.md)
